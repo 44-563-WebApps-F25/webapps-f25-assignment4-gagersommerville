@@ -1,0 +1,42 @@
+.speech {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15;
+    color: #000;
+}
+
+.song {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15;
+    color: #000;
+}
+
+.direction {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15;
+    color: #000;
+    background-color:#6edcdc;
+}
+
+.direction:hover {
+    color: #c90d0d;
+    background:#d6d198;
+}
+
+.Samuel {
+
+    color:#000000
+}
+
+.King {
+
+    color: #073f0a;
+}
+
+.Frederic {
+    color: #542b0a;
+}
+
+.ALL {
+    color:#15053a;
+}
+
