@@ -40,5 +40,25 @@
     color:#f9780e;
 }
 
+.cast-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+}
 
+.cast-table th,
+.cast-table td {
+  border: 1px solid #333;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.cast-table tr:first-child {
+  background-color: #6edcdc;
+}
+
+.cast-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
